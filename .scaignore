@@ -1,2 +1,6 @@
 /codec/
 /core/
+/example/
+/remoting/
+/test/
+mvnw.cmd
